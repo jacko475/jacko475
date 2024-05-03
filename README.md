@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jack</h1>
 <h3 align="center">A passionate frontend developer from Scotland, living in Hong Kong.</h3>
 
-- 🔭 I’m currently working on **a future state building management software.**
+- 🔭 I’m currently working on **a building management web app.**
 
 - 🌱 I’m currently learning **Back-end Development**
 
