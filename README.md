@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jack</h1>
-<h3 align="center">A passionate Product Design Engineer from 🏴󠁧󠁢󠁳󠁣󠁴󠁿, living in Hong Kong.</h3>
+<h3 align="center">A Product Design Engineer from 🏴󠁧󠁢󠁳󠁣󠁴󠁿, living in Hong Kong.</h3>
 
 - 🔭 I’m currently working on **a building management web app.**
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.obrienjack.com](https://www.obrienjack.com)
 
-- 📫 How to reach me **jack@obrienjack.com**
+- 📫 How to reach me **hello@obrienjack.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
