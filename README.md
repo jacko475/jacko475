@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jack</h1>
 <h3 align="center">A Product Design Engineer from 🏴󠁧󠁢󠁳󠁣󠁴󠁿, living in Hong Kong.</h3>
 
-- 🔭 I’m currently working on **a building management web app.**
-
-- 🌱 I’m currently learning **Back-end Development**
+- 🔭 I’m currently working on **a Coffee Recipe app.**
 
 - 👨‍💻 All of my projects are available at [https://www.obrienjack.com](https://www.obrienjack.com)
 
